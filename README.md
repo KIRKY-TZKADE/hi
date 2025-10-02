@@ -35,8 +35,8 @@
 
 <div class="ask">
 
-<p> <span class="crush">HI CRUSH</span> <br>
-gusto kita, can i court you?</p>
+<p> <span class="crush">HI MIKAELLA</span> <br>
+I LIKE U, can i court you?</p>
 <div class="btn">
 <a href="yes.html"><button id="btn1">Yes</button>		</a>			    <button id="btn2">No</button>
 </div>				
@@ -74,7 +74,7 @@ gusto kita, can i court you?</p>
 </div>
 
 <div class="fff">
-<p>Created by Val</p>
+<p>Created by Kirk</p>
 </div>
 
 <script src="proposalv2.js"></script>
